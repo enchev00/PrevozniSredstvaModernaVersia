@@ -1,0 +1,15 @@
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\bin\Debug\net6.0\PrevozniSredstva.exe
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\bin\Debug\net6.0\PrevozniSredstva.deps.json
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\bin\Debug\net6.0\PrevozniSredstva.runtimeconfig.json
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\bin\Debug\net6.0\PrevozniSredstva.dll
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\bin\Debug\net6.0\PrevozniSredstva.pdb
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.csproj.AssemblyReference.cache
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.AssemblyInfoInputs.cache
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.AssemblyInfo.cs
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.csproj.CoreCompileInputs.cache
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.dll
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\obj\Debug\net6.0\refint\PrevozniSredstva.dll
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.pdb
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\obj\Debug\net6.0\PrevozniSredstva.genruntimeconfig.cache
+C:\Users\StoychoEnchevSQAbg\source\repos\PrevozniSredstva\PrevozniSredstva\obj\Debug\net6.0\ref\PrevozniSredstva.dll
